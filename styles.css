@@ -354,15 +354,36 @@ section{
 
 .images {
     width: 100%;
-    height: 600px;
+    height: 450px;
+    margin-top: 20px;
+    align-items: center;
+    text-align: center;
+    padding-left: 5%;
+    padding-right: 5%;
+    
 }
 
 .images img {
     width: 100%;
     height: 100%;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow:  2px 2px 20px black;
+
 }
 
-
+.pickup {
+    font-size: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 20px;
+    font-weight: 800;
+    width: 100%;
+    height: 20%;
+    border:none;
+    text-align: center;
+    box-shadow: 5px 5px 10px #7E1717;
+}
 
 
 
